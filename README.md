@@ -24,7 +24,7 @@ Packages: pandas, numpy, sklearn, matplotlib, seaborn
 * The median house ages were also visualized by location within California.<br/>
   &#8594; It was apparent that the median ages of most of the houses range from less than 10 to around 30 years throughout California.<br/>
   &#8594; Although the very new houses seemed to be more populated in the lower and middle regions of California, there did not seem to be a<br/>
-          noticeable pattern of the median age of houses by location.
+            noticeable pattern of the median age of houses by location.
   
   <img src = "viz1.png" style = "width: 45%"> <img src = "viz2.png" style = "width: 45%">
 
