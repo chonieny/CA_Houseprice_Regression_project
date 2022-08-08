@@ -25,8 +25,7 @@ Packages: pandas, numpy, sklearn, matplotlib, seaborn
   Although the very new houses seemed to be more populated in the lower and middle regions of California, there did not seem to be a
   clear pattern of the median age of houses by location.
   
-  <img src = "visualization1.png" style = "width: 50%">
-  <img src = "visualization2.png" style = "width: 50%">
+  <img src = "visualization1.png" style = "width: 45%"> <img src = "visualization2.png" style = "width: 45%">
 
   
        
