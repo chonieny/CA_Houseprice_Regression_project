@@ -37,5 +37,8 @@ Packages: pandas, numpy, sklearn, matplotlib, seaborn
 * Data were scaled  
 
 ## Fit Machine Learning Models & Compare their Performances 
+* The data were split into train and test sets with a test size of 20% 
+* Five models(Linear Regression, KNN, SVM, Random Forest, Gradient Boosting) were fit with default parameters
+* Each model's root mean squared error was compared: Random Forest showed the smallest root mean squared error 
 
 ## Hyperparameter Tuning for Final Machine Learning Model 
