@@ -19,7 +19,11 @@ Packages: pandas, numpy, sklearn, matplotlib, seaborn
 * The distribution of each feature was checked. Log transformation was done on the skewed features, which made their distributions more normal.  
 * The median house prices were visualized by location within California. It could be seen that the prices tend to be higher the closer the houses
   are to the ocean.<br/>
+* The median house ages were also visualized by location within California. It was apparent that the median age of most of the houses ranged from less than 
+  10 to around 30 years throughout California. Although it could be seen that the very new houses see m to be more populated in the lower and middle
+  regions of California, there did not seem to be a clear pattern of the median ages of houses by location.
   <img src = "visualization1.png" style = "width: 50%">
+  
 
   
        
