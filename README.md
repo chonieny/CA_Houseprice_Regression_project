@@ -3,7 +3,7 @@
 This project aims to build an optimal machine learning model to predict the median house price in any district in California.<br/>
 Property investors and real estate agents can benefit from being able to accurately predict and know the trends of house prices. 
 
-* **Walkthrough**<br/>
+* **Walkthrough**
  1. Define the question and collect the data<br/>
  2. Exploratory Data Analysis<br/> 
  3. Data Cleaning & Feature Engineering<br/>
