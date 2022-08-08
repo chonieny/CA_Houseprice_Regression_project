@@ -45,4 +45,5 @@ Packages: pandas, numpy, sklearn, matplotlib, seaborn
 ## Hyperparameter Tuning for Final Machine Learning Model 
 * The hyperparameters of Random Forest were tuned, which lowered the root mean squared error
 * The feature importance plot was created 
+
 * The root mean squared error and R^2 value of the final model were checked with test data 
