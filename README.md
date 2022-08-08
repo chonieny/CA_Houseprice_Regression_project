@@ -9,3 +9,7 @@ Property investors and real estate agents can benefit from being able to accurat
 3. Feature Engineering<br/> 
 4. Fit Machine Learning Models & Compare their performances<br/> 
 5. Hyperparameter Tuning for Final Machine Learning Model 
+
+* Coding Language Used 
+Python Version: 3.9
+Packages: pandas, numpy, sklearn, matplotlib, seaborn 
