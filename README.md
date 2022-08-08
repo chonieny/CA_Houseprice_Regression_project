@@ -33,7 +33,7 @@ Property investors and real estate agents can benefit from being able to accurat
 ## Data Cleaning & Feature Engineering 
 * One-hot encoding was done for the categorical variable 
 * Missing values were filled with regression imputation using gradient boosting(chosen over linear regression and random forest)
-* Heavily correlated features were handled: Redundant and less important features were dropped, and more informative features were created.
+* Heavily correlated features were handled: Very redundant and less important features were dropped, and more informative features were created.
 * Skewed features underwent log transformation 
 * Data were scaled  
 
