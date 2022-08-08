@@ -13,3 +13,14 @@ Property investors and real estate agents can benefit from being able to accurat
 * **Coding Language Used**<br/> 
 Python Version: 3.9<br/>
 Packages: pandas, numpy, sklearn, matplotlib, seaborn 
+
+
+## Exploratory Data Analysis
+
+## Data Cleaning
+
+## Feature Engineering 
+
+## Fit Machine Learning Models & Compare their Performances 
+
+## Hyperparameter Tuning for Final Machine Learning Model 
