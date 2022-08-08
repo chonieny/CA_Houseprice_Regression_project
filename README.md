@@ -1,6 +1,6 @@
 # California House Price Predictor: Project Overview
 * **Objective**<br/>
-This project aims to build an optimal machine learning model to predict the median house price in any district in California.
+This project aims to build an optimal regression machine learning model to predict the median house price in any district in California.
 Property investors and real estate agents can benefit from being able to accurately predict and know the trends of house prices. 
 
 * **Walkthrough** 
@@ -39,7 +39,7 @@ Property investors and real estate agents can benefit from being able to accurat
 
 ## Fit Machine Learning Models & Compare their Performances 
 * The data were split into train and test sets with a test size of 20% 
-* Five models(Linear Regression, KNN, SVM, Random Forest, Gradient Boosting) were trained with default parameters
+* Five models (Linear Regression, KNN, SVM, Random Forest, Gradient Boosting) were trained with default parameters
 * Each model's root mean squared error was compared: Random Forest showed the smallest root mean squared error 
 
 ## Hyperparameter Tuning for Final Machine Learning Model 
