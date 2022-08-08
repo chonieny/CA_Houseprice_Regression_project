@@ -33,6 +33,7 @@ Packages: pandas, numpy, sklearn, matplotlib, seaborn
 * One-hot encoding was done for the categorical variable 
 * Missing values were filled with regression imputation using gradient boosting(chosen over linear regression and random forest)
 * Heavily correlated features were handled: Redundant and less important features were dropped, and more informative features were created.
+* Skewed features underwent log transformation 
 * Data were scaled  
 
 ## Fit Machine Learning Models & Compare their Performances 
