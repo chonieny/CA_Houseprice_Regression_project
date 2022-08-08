@@ -4,9 +4,9 @@ This project aims to build an optimal machine learning model to predict the medi
 Property investors and real estate agents can benefit from being able to accurately predict and know the trends of house prices. 
 
 * **Walkthrough**<br/>
- 1. Exploratory Data Analysis<br/> 
- 2. Data Cleaning<br/>
- 3. Feature Engineering<br/> 
+ 1. Define the question and collect the data<br/>
+ 2. Exploratory Data Analysis<br/> 
+ 3. Data Cleaning & Feature Engineering<br/>
  4. Fit Machine Learning Models & Compare their performances<br/> 
  5. Hyperparameter Tuning for Final Machine Learning Model 
 
@@ -29,12 +29,11 @@ Packages: pandas, numpy, sklearn, matplotlib, seaborn
 
 * Median income and the house being inland showed the strongest correlations with the median house prices in the dataset. 
   
-       
-
-
-## Data Cleaning
-
-## Feature Engineering 
+## Data Cleaning & Feature Engineering 
+* One-hot encoding was done for the categorical variable 
+* Missing values were filled with regression imputation using gradient boosting(chosen over linear regression and random forest)
+* Heavily correlated features were handled: Redundant and less important features were dropped, and more informative features were created.
+* Data were scaled  
 
 ## Fit Machine Learning Models & Compare their Performances 
 
