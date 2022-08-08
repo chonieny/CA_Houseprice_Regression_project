@@ -46,4 +46,4 @@ Packages: pandas, numpy, sklearn, matplotlib, seaborn
 * The hyperparameters of Random Forest were tuned, which lowered the root mean squared error
 * The feature importance plot was created 
  <img src = "viz3.png" style= "width: 100%">
-* The root mean squared error and R^2 value of the final model were checked with test data 
+* The root mean squared error and R<sub>2</sub> value of the final model were checked with test data 
