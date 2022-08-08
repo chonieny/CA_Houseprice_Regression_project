@@ -1,6 +1,6 @@
 # California House Price Predictor: Project Overview
 * **Objective**<br/>
-This project aims to build an optimal machine learning model to predict the median house price in any district in California.<br/>
+This project aims to build an optimal machine learning model to predict the median house price in any district in California.
 Property investors and real estate agents can benefit from being able to accurately predict and know the trends of house prices. 
 
 * **Walkthrough** 
@@ -11,9 +11,9 @@ Property investors and real estate agents can benefit from being able to accurat
  5. Hyperparameter Tuning for Final Machine Learning Model 
 
 * **Data& Coding Language Used**<br/> 
-Data: California Census Data<br/>
-Python Version: 3.9<br/>
-Packages: pandas, numpy, sklearn, matplotlib, seaborn 
+- Data: California Census Data<br/>
+- Python Version: 3.9<br/>
+- Packages: pandas, numpy, sklearn, matplotlib, seaborn 
 
 
 ## Exploratory Data Analysis
