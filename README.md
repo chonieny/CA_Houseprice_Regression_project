@@ -16,6 +16,8 @@ Packages: pandas, numpy, sklearn, matplotlib, seaborn
 
 
 ## Exploratory Data Analysis
+* The distribution of each feature was checked. Log transformation was done on the skewed features, which made their distributions more normal.  
+
 
 ## Data Cleaning
 
