@@ -1,8 +1,7 @@
 # California House Price Predictor: Project Overview
 * Objective:<br/>
 This project aims to build an optimal machine learning model to predict the median house price in any district in California.<br/>
-Being able to accurately predict and know the trends of house prices is beneficial for property investors and real estate agents. 
-
+Property investors and real estate agents can benefit from being able to accurately predict and know the trends of house prices. 
 
 * Walkthrough:<br/>
 1. Exploratory Data Analysis<br/> 
