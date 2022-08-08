@@ -20,6 +20,7 @@ Packages: pandas, numpy, sklearn, matplotlib, seaborn
 * The median house prices were visualized by location within California. It could be seen that the prices tend to be higher the closer the houses
   are to the ocean.<br/>
   ![my image](viz1.png)
+
   
        
 
