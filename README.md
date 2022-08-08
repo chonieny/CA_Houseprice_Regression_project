@@ -4,11 +4,11 @@ This project aims to build an optimal machine learning model to predict the medi
 Property investors and real estate agents can benefit from being able to accurately predict and know the trends of house prices. 
 
 * **Walkthrough**<br/>
-  1. Exploratory Data Analysis<br/> 
-  2. Data Cleaning<br/>
-  3. Feature Engineering<br/> 
-  4. Fit Machine Learning Models & Compare their performances<br/> 
-  5. Hyperparameter Tuning for Final Machine Learning Model 
+ 1. Exploratory Data Analysis<br/> 
+ 2. Data Cleaning<br/>
+ 3. Feature Engineering<br/> 
+ 4. Fit Machine Learning Models & Compare their performances<br/> 
+ 5. Hyperparameter Tuning for Final Machine Learning Model 
 
 * **Coding Language Used**<br/> 
 Python Version: 3.9<br/>
