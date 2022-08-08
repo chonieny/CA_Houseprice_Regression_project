@@ -22,8 +22,8 @@ Packages: pandas, numpy, sklearn, matplotlib, seaborn
   It could be seen that the prices tend to be higher the closer the houses are to the ocean.<br/>
 * The median house ages were also visualized by location within California.<br/>
   It was apparent that the median age of most of the houses ranged from less than 10 to around 30 years throughout California.<br/>
-  Although it could be seen that the very new houses seem to be more populated in the lower and middle regions of California, there did not seem to be a
-  clear pattern of the median ages of houses by location.
+  Although the very new houses seemed to be more populated in the lower and middle regions of California, there did not seem to be a
+  clear pattern of the median age of houses by location.
   
   <img src = "visualization1.png" style = "width: 50%">
   
