@@ -26,7 +26,7 @@ Packages: pandas, numpy, sklearn, matplotlib, seaborn
   clear pattern of the median age of houses by location.
   
   <img src = "visualization1.png" style = "width: 50%">
-  
+  <img src = "visualization2.png" style = "width: 50%">
 
   
        
