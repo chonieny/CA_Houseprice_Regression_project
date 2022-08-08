@@ -7,5 +7,5 @@ Property investors and real estate agents can benefit from being able to accurat
 1. Exploratory Data Analysis<br/> 
 2. Data Cleaning<br/>
 3. Feature Engineering<br/> 
-4. Fit Machine Learning Algorithms & Compare their performances<br/> 
-5. Hyperparameter Tuning for Final Machine Learning Algorithm 
+4. Fit Machine Learning Models & Compare their performances<br/> 
+5. Hyperparameter Tuning for Final Machine Learning Model 
