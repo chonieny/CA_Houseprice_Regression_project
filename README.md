@@ -10,7 +10,7 @@ Property investors and real estate agents can benefit from being able to accurat
     - Fit Machine Learning Models & Compare their performances<br/> 
     - Hyperparameter Tuning for Final Machine Learning Model 
 
-* **Data& Coding Language Used**<br/> 
+* **Data & Coding Language Used**<br/> 
     - Data: California Census Data<br/>
     - Python Version: 3.9<br/>
     - Packages: pandas, numpy, sklearn, matplotlib, seaborn 
