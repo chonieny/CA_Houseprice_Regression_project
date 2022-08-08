@@ -15,12 +15,12 @@ Python Version: 3.9<br/>
 Packages: pandas, numpy, sklearn, matplotlib, seaborn 
 
 
-## Exploratory Data Analysis
+### Exploratory Data Analysis
 
-## Data Cleaning
+### Data Cleaning
 
-## Feature Engineering 
+### Feature Engineering 
 
-## Fit Machine Learning Models & Compare their Performances 
+### Fit Machine Learning Models & Compare their Performances 
 
-## Hyperparameter Tuning for Final Machine Learning Model 
+### Hyperparameter Tuning for Final Machine Learning Model 
