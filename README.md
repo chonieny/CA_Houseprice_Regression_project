@@ -17,6 +17,8 @@ Packages: pandas, numpy, sklearn, matplotlib, seaborn
 
 ## Exploratory Data Analysis
 * The distribution of each feature was checked. Log transformation was done on the skewed features, which made their distributions more normal.  
+* The median house prices were visualized by location within California. It could be seen that the prices tend to be higher the closer the houses
+  are to the ocean. 
 
 
 ## Data Cleaning
