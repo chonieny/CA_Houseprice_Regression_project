@@ -28,7 +28,7 @@ Property investors and real estate agents can benefit from being able to accurat
   
   <img src = "viz1.png" style = "width: 45%"> <img src = "viz2.png" style = "width: 45%">
 
-* Median income and the house being inland showed the strongest correlations with the median house prices in the dataset. 
+* Median income and a house being inland showed the strongest correlations with the median house prices in the dataset. 
   
 ## Data Cleaning & Feature Engineering 
 * One-hot encoding was done for the categorical variable 
