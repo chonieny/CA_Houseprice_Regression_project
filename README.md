@@ -20,6 +20,7 @@ Property investors and real estate agents can benefit from being able to accurat
 * The distribution of each feature was checked<br/> 
   Log transformation was done on the skewed features, which made their distributions more normal  
 * The median house prices were visualized by location within California<br/> 
+  (Each feature's value pertains to that within a district) <br/>
   &#8594; It could be seen that the prices tend to be higher the closer the houses are to the ocean<br/>
 * The median house ages were also visualized by location within California<br/>
   &#8594; It was apparent that the median ages of most of the houses range from less than 10 to around 30 years throughout California<br/>
