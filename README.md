@@ -47,4 +47,5 @@ Property investors and real estate agents can benefit from being able to accurat
 * The hyperparameters of Random Forest were tuned, which lowered the root mean squared error
 * The feature importance plot was created 
  <img src = "viz3.png" style= "width: 100%">
-*  The root mean squared error and R<sup>2</sup> value of the final model were checked with test data 
+ 
+* The root mean squared error and R<sup>2</sup> value of the final model were checked with test data 
